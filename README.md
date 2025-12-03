@@ -126,5 +126,5 @@ Leading the development of an intelligent financial tool to automate bookkeeping
 <br>
 
 <div align="center">
-  <img src="https://github.com/edison1006/edison1006/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/edison1006/edison1006/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
