@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Edison%20(Xiaoyu)%20Zhang&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AWS%20Certified%20%7C%20Ex-Banking%20Executive&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Edison%20(Xiaoyu)%20Zhang&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AWS%20Certified%20%7C%20Ex-Banking%20Executive&descAlignY=55&descAlign=62" />
 </div>
 
 <div align="center">
@@ -22,18 +22,35 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=edison1006&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" />
+</div>
+
+---
+
 ### 🚀 About Me
 
-I am a **Software Engineering Master's student** at Yoobee College (NZ) with a unique **FinTech advantage**. Before pivoting to tech, I spent **7+ years in banking leadership**, managing **$200M+ AUM** and driving digital transformation.
+[cite_start]I am a **Software Engineering Master's student** at Yoobee College (NZ) with a unique **FinTech advantage**[cite: 37]. [cite_start]Before pivoting to tech, I spent **7+ years in banking leadership** [cite: 4][cite_start], managing **$200M+ AUM** [cite: 30] and driving digital transformation.
 
-* 🔭 **Currently working on:** An **AI-powered accountancy platform** for SMEs using AWS & Python.
-* 💼 **My superpower:** Bridging the gap between **complex business logic** and **scalable technical architecture**.
+* [cite_start]🔭 **Currently working on:** An **AI-powered accountancy platform** for SMEs using AWS & Python[cite: 17].
+* [cite_start]💼 **My superpower:** Bridging the gap between **complex business logic** and **scalable technical architecture**[cite: 6].
 * 🌱 **Learning:** Advanced Cloud Native Architectures & Microservices.
 
 ---
 
+### 📊 GitHub Analytics (Dynamic)
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edison1006&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" />
+  <a href="https://github.com/edison1006">
+    <img src="https://github-readme-stats.vercel.app/api?username=edison1006&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" alt="stats graph" />
+  </a>
+  <a href="https://github.com/edison1006">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edison1006&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages graph" />
+  </a>
+  <br>
+  <a href="https://github.com/edison1006">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=edison1006&theme=tokyonight&hide_border=true" height="160" alt="streak stats" />
+  </a>
 </div>
 
 ---
@@ -54,13 +71,13 @@ I am a **Software Engineering Master's student** at Yoobee College (NZ) with a u
 
 ### 🌟 Featured Project
 
-#### **AI-Powered SME Accountancy Platform** (Tiaki Taonga Trust)
+#### [cite_start]**AI-Powered SME Accountancy Platform** (Tiaki Taonga Trust) 
 > *Tech Stack: Python, AWS (OCR, Lambda), PostgreSQL, React*
 
 Leading the development of an intelligent financial tool to automate bookkeeping for non-profits and SMEs.
-* ✨ **Impact:** Reduced manual entry by **85%** and improved reconciliation speed by **70%**.
-* 🛠 **Solution:** Built an automated scanning engine using **AWS OCR API** and a custom auto-matching algorithm.
-* ☁️ **Architecture:** Secure, scalable cloud infrastructure on AWS.
+* [cite_start]✨ **Impact:** Reduced manual entry by **85%** [cite: 19] [cite_start]and improved reconciliation speed by **70%**[cite: 19].
+* [cite_start]🛠 **Solution:** Built an automated scanning engine using **AWS OCR API** and a custom auto-matching algorithm[cite: 19].
+* [cite_start]☁️ **Architecture:** Secure, scalable cloud infrastructure on AWS[cite: 20].
 
 ---
 
@@ -68,49 +85,43 @@ Leading the development of an intelligent financial tool to automate bookkeeping
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
 #### 💼 Professional Experience
 
 **Volunteer Project Manager (AI & Full-Stack)**
-<br> *Tiaki Taonga Trust | 08.2025 - Present*
-* Leading a 3-person Agile team to build fintech solutions.
+<br> *Tiaki Taonga Trust | [cite_start]08.2025 - Present* 
+* [cite_start]Leading a 3-person Agile team to build fintech solutions[cite: 17].
 
 **Deputy General Manager**
-<br> *Shanghai Pudong Development Bank | 06.2018 - 06.2025*
-* Managed **$200M+ AUM** and achieved **15%+ growth**.
-* Improved team productivity by **30%** via CRM workflow optimization.
-* Led digital transformation integrating CRM data with internal SQL systems.
+<br> *Shanghai Pudong Development Bank | [cite_start]06.2018 - 06.2025* 
+* [cite_start]Managed **$200M+ AUM** and achieved **15%+ growth**[cite: 30].
+* [cite_start]Improved team productivity by **30%** via CRM workflow optimization[cite: 29].
+
+**Customer Manager**
+<br> *China CITIC Bank | 06.2014 - 06.2018* [cite: 33]
+* [cite_start]Increased client satisfaction by 25%[cite: 35].
 
 </td>
-<td width="50%">
+<td width="45%">
 
 #### 🎓 Education
 
 **Master of Software Engineering**
-<br> *Yoobee College, NZ | 2025 - 2026 (Expected)*
+<br> *Yoobee College, NZ | [cite_start]2025 - 2026* [cite: 37]
 
 **Master of Business Administration (MBA)**
-<br> *Anhui University, China | 2021*
+<br> *Anhui University, China | [cite_start]2021* [cite: 38]
 
-**Bachelor of Computing & Information Science**
-<br> *Zhongnan University of Economics and Law | 2014*
+**Bachelor of Computing & Info Science**
+<br> *Zhongnan Univ. of Economics & Law | [cite_start]2014* [cite: 39]
 
 **Bachelor of Finance**
-<br> *South-Central University for Nationalities | 2014*
+<br> *South-Central Univ. for Nationalities | [cite_start]2014* [cite: 40]
 
 </td>
 </tr>
 </table>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edison1006&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edison1006&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="languages graph" />
-</div>
 
 <br>
 
