@@ -30,7 +30,7 @@
 
 ### 🚀 About Me
 
-[cite_start]I am a **Software Engineering Master's student** at Yoobee College (NZ) with a unique **FinTech advantage**[cite: 37]. [cite_start]Before pivoting to tech, I spent **7+ years in banking leadership** [cite: 4][cite_start], managing **$200M+ AUM** [cite: 30] and driving digital transformation.
+[cite_start]I am a **Software Engineering Master's student** at Yoobee College (NZ) with a unique **FinTech advantage**[cite: 37]. [cite_start]Before pivoting to tech, I spent **7+ years in banking leadership**, managing **$200M+ AUM** and driving digital transformation[cite: 4, 30].
 
 * [cite_start]🔭 **Currently working on:** An **AI-powered accountancy platform** for SMEs using AWS & Python[cite: 17].
 * [cite_start]💼 **My superpower:** Bridging the gap between **complex business logic** and **scalable technical architecture**[cite: 6].
@@ -71,11 +71,11 @@
 
 ### 🌟 Featured Project
 
-#### [cite_start]**AI-Powered SME Accountancy Platform** (Tiaki Taonga Trust) 
+#### [cite_start]**AI-Powered SME Accountancy Platform** (Tiaki Taonga Trust) [cite: 17]
 > *Tech Stack: Python, AWS (OCR, Lambda), PostgreSQL, React*
 
 Leading the development of an intelligent financial tool to automate bookkeeping for non-profits and SMEs.
-* [cite_start]✨ **Impact:** Reduced manual entry by **85%** [cite: 19] [cite_start]and improved reconciliation speed by **70%**[cite: 19].
+* [cite_start]✨ **Impact:** Reduced manual entry by **85%** and improved reconciliation speed by **70%**[cite: 19].
 * [cite_start]🛠 **Solution:** Built an automated scanning engine using **AWS OCR API** and a custom auto-matching algorithm[cite: 19].
 * [cite_start]☁️ **Architecture:** Secure, scalable cloud infrastructure on AWS[cite: 20].
 
@@ -90,16 +90,16 @@ Leading the development of an intelligent financial tool to automate bookkeeping
 #### 💼 Professional Experience
 
 **Volunteer Project Manager (AI & Full-Stack)**
-<br> *Tiaki Taonga Trust | [cite_start]08.2025 - Present* 
+<br> *Tiaki Taonga Trust | 08.2025 - Present*
 * [cite_start]Leading a 3-person Agile team to build fintech solutions[cite: 17].
 
 **Deputy General Manager**
-<br> *Shanghai Pudong Development Bank | [cite_start]06.2018 - 06.2025* 
-* [cite_start]Managed **$200M+ AUM** and achieved **15%+ growth**[cite: 30].
+<br> *Shanghai Pudong Development Bank | 06.2018 - 06.2025*
+* [cite_start]Managed **$200M+ AUM** and achieved **15%+ growth**.
 * [cite_start]Improved team productivity by **30%** via CRM workflow optimization[cite: 29].
 
 **Customer Manager**
-<br> *China CITIC Bank | 06.2014 - 06.2018* [cite: 33]
+<br> *China CITIC Bank | 06.2014 - 06.2018*
 * [cite_start]Increased client satisfaction by 25%[cite: 35].
 
 </td>
@@ -108,16 +108,16 @@ Leading the development of an intelligent financial tool to automate bookkeeping
 #### 🎓 Education
 
 **Master of Software Engineering**
-<br> *Yoobee College, NZ | [cite_start]2025 - 2026* [cite: 37]
+<br> *Yoobee College, NZ | 2025 - 2026* [cite: 37]
 
 **Master of Business Administration (MBA)**
-<br> *Anhui University, China | [cite_start]2021* [cite: 38]
+<br> *Anhui University, China | 2021* [cite: 38]
 
 **Bachelor of Computing & Info Science**
-<br> *Zhongnan Univ. of Economics & Law | [cite_start]2014* [cite: 39]
+<br> *Zhongnan Univ. of Economics & Law | 2014* [cite: 39]
 
 **Bachelor of Finance**
-<br> *South-Central Univ. for Nationalities | [cite_start]2014* [cite: 40]
+<br> *South-Central Univ. for Nationalities | 2014* [cite: 40]
 
 </td>
 </tr>
