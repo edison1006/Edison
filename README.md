@@ -42,7 +42,7 @@ I am a **Software Engineering Master's student** at Yoobee College (NZ) bridging
 
 <div align="center">
   <a href="https://github.com/edison1006">
-    <img src="https://github-readme-stats.vercel.app/api?username=edison1006&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=edison1006&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
   </a>
   <a href="https://github.com/edison1006">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edison1006&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages graph" />
