@@ -12,7 +12,7 @@
     <a href="https://github.com/edison1006">
         <img src="https://komarev.com/ghpvc/?username=edison1006&style=for-the-badge&color=blueviolet" alt="Profile Views" />
     </a>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/">
+    <a href="https://www.linkedin.com/in/xiaoyu-zhang-2397a0372/">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:edisonzhang0321@gmail.com">
