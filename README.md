@@ -27,12 +27,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edison1006&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
----
-
 ### 👋 About Me
 
 <div align="center">
@@ -160,16 +154,6 @@ I am a **Software Engineering Master's student** at Yoobee College (NZ) bridging
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edison1006&theme=github-compact&hide_border=true&area=true)](https://github.com/edison1006)
 
 </div>
 
